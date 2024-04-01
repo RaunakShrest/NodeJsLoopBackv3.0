@@ -1,0 +1,7 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "mongodb",
+    "url": "mongodb+srv://raunakshrestha62:computer12345@cluster0.mt5pylm.mongodb.net/LoopbackMongo"
+  }
+}
